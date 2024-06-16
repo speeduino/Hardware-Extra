@@ -1,0 +1,19 @@
+### Module positions - created on Wednesday, May 12, 2021 at 11:55:11 PM ###
+### Printed by Pcbnew version kicad (5.1.9-0-10_14)
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                       Package                          PosX       PosY       Rot  Side
+C4        1nF                       C_0805_2012Metric            143.2560  -148.0820  180.0000  top
+C5        0.01uF                    C_0805_2012Metric            148.5900  -139.7000    0.0000  top
+C6        1nF                       C_0805_2012Metric            143.2560  -141.9860    0.0000  top
+C7        0.1uF                     C_0805_2012Metric            148.5900  -137.6680    0.0000  top
+C8        1uF                       C_0805_2012Metric            148.5900  -135.6360    0.0000  top
+IC1       MAX9926UAEE_V+            QSOP-16_3.9x4.9mm_P0.635mm   148.8440  -145.0340  180.0000  top
+Q1        Q_DUAL_NMOS_S1G1D2S2G2D1  SOT-363_SC-70-6              155.8925  -144.3990  180.0000  top
+R1        1k                        R_0805_2012Metric            155.8925  -147.2565  180.0000  top
+R2        1k                        R_0805_2012Metric            155.8925  -149.2765    0.0000  top
+R3        10k                       R_0805_2012Metric            143.2560  -150.1140    0.0000  top
+R4        10k                       R_0805_2012Metric            143.2560  -146.0500    0.0000  top
+R5        10k                       R_0805_2012Metric            143.2560  -144.0180    0.0000  top
+R6        10k                       R_0805_2012Metric            143.2560  -139.9540    0.0000  top
+## End

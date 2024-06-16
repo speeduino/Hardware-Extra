@@ -1,0 +1,36 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EBC05DRXN
+D CONN EDGE DUAL FMALE 10POS 0.100
+F https://datasheet.datasheetarchive.com/originals/dk/DKDS42/DSANUWW0040354.pdf
+$ENDCMP
+#
+$CMP EBC05DRXN_Card
+D CONN EDGE DUAL FMALE 10POS 0.100
+F https://datasheet.datasheetarchive.com/originals/dk/DKDS42/DSANUWW0040354.pdf
+$ENDCMP
+#
+$CMP KP234
+D Absolute pressure sensor, 15 to 115kPa, analog output, integrated signal conditioning, temperature compensated, SO package
+K absolute pressure sensor
+$ENDCMP
+#
+$CMP MPXAZ6115A
+D Absolute pressure sensor, 15 to 115kPa, analog output, integrated signal conditioning, temperature compensated, media resistant gel, SO package
+K absolute pressure sensor
+F http://www.nxp.com/files/sensors/doc/data_sheet/MPXA6115A.pdf
+$ENDCMP
+#
+$CMP MPXH6115A
+D Absolute pressure sensor, 15 to 115kPa, analog output, integrated signal conditioning, temperature compensated, SSO package
+K absolute pressure sensor
+F http://www.nxp.com/files/sensors/doc/data_sheet/MPXA6115A.pdf
+$ENDCMP
+#
+$CMP MPXHZ6115A
+D Absolute pressure sensor, 15 to 115kPa, analog output, integrated signal conditioning, temperature compensated, media resistant gel, SSO package
+K absolute pressure sensor
+F http://www.nxp.com/files/sensors/doc/data_sheet/MPXA6115A.pdf
+$ENDCMP
+#
+#End Doc Library

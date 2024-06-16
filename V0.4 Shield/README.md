@@ -12,11 +12,12 @@
 The Speeduino project is a flexible, fully featured Engine Management Systems (EMS aka ECU) based on the low cost and open source Arduino platform. It provides the hardware, firmware and software components that make up an engine management system, all provided under open licenses. With over 1000 installations, Speeduino has matured into a product that meets the needs of the hobbyist and enthusiast community without driving prices to the levels of traditional aftermarket ECUs.
 
 ## Overview
-This repositiory contains a number of automotive related hardware pieces that have been developed but never made a consumer ready product. These maybe incomplete, untested or otherwise not suitable for production, however they are provided for use by the Speeduino community as they may be useful for individual projects. 
+This board is a shield designed to add an automotive connector to the v0.4 series of Speeduino ECUs. It also includes a VR conditioner on board and allows for 12v Hall effect signals (Such as on some GM engines) to be used directly. 
+
+The connector used is a Delphi Sicma 39 pin 
 
 ## License
-These designs are release under the [CERN Open Hardware License v2 Strong (CERN-OHL-S)](https://ohwr.org/cern_ohl_s_v2.txt). 
-This license is similar to the GPL, however is designed specifically for hardware design files, including PCB layouts and schematics. As the 'strongly reciprocal' version of the CERN OHL is used, you may use, copy, modify and create variations of these designs freely, provided that any changes or variations are also released under this CERN-OHL-S. 
+These designs are release under the [TAPR Open Hardware License v1.0](https://files.tapr.org/OHL/TAPR_Open_Hardware_License_v1.0.txt). 
  
 
 ## Support

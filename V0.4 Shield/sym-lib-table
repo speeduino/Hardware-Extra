@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Connector_Automotive)(type Legacy)(uri ${KIPRJMOD}/lib/Connector_Automotive/Connector_Automotive.lib)(options "")(descr ""))
+  (lib (name IC_Automotive)(type Legacy)(uri ${KIPRJMOD}/lib/IC_Automotive/IC_Automotive.lib)(options "")(descr ""))
+)

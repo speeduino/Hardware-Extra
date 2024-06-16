@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Connector_Automotive)(type KiCad)(uri /Users/josh/Documents/Speeduino-Boards-Private/v0.4/Shield/lib/Connector_Automotive/Connector_Automotive.pretty)(options "")(descr ""))
+  (lib (name v0.4)(type KiCad)(uri "${KIPRJMOD}/v0.4.4c board")(options "")(descr ""))
+  (lib (name Misc)(type KiCad)(uri ${KIPRJMOD}/lib/Misc/Misc.pretty)(options "")(descr ""))
+)
